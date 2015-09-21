@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/applicationContext-security.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/spring-servlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/templates" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/css" charset="GBK" />
+  </component>
+</project>
